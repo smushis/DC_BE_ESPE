@@ -8,3 +8,7 @@ Vous êtes ici sur le Github du groupe DC !
   - *"git commit -m "message de commit" "*
   - *"git push"*
                         
+Usefull links :
+https://noullet-gei.github.io/GIT/
+https://git-scm.com/book/en/v2/Git-Tools-Submodules
+https://www.markdownguide.org/basic-syntax/
