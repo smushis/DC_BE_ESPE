@@ -1,0 +1,28 @@
+PCAD Importer Log
+Project : ESR10EZPF2200.LibPkg
+
+Section : U:\5A\Git\BMS_Altium\PCB_Project\ESR10EZPF2200.lia
+    Section : PCB Library - ESR10EZPF2200.PcbLib
+        Section : Load Messages
+            Warning - 1 : Skipping Token ESR10EZPF2200 On Line 116
+            Warning - 1 : Skipping Token attachedSymbol On Line 168
+        EndSection
+
+        Section : Import Messages
+        EndSection
+    EndSection
+
+    Section : SCH Library - ESR10EZPF2200.SchLib
+        Section : Parsing Messages
+            Warning - 1 : Skipping Token padStyleDef On Line 9
+            Warning - 1 : Skipping Token multiLayer On Line 84
+            Warning - 1 : Skipping Token layerContents On Line 88
+            Warning - 1 : Skipping Token layerContents On Line 92
+            Warning - 1 : Skipping Token layerContents On Line 100
+            Warning - 1 : Skipping Token layerContents On Line 106
+        EndSection
+
+        Section : Generating SCH Library - ESR10EZPF2200.SchLib
+        EndSection
+    EndSection
+EndSection
